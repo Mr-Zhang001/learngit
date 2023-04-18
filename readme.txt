@@ -10,3 +10,4 @@ Creating a new branch is quick AND simple.
 Creating a new branch is quick123
 Creating a new branch is quick AND simple.
 >>>>>>> ferturel
+Witched to a ne branch 'dev'
